@@ -1,0 +1,6 @@
+java:
+   findBy: xpath
+   locator: "//*[@id='link']/div/ul/li[3]/a"
+title:
+   findBy: xpath 
+   locator: "//*[@id='menu']/div[1]/h2/span"
